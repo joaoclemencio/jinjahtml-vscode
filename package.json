@@ -254,6 +254,11 @@
 				"language": "jinja-html",
 				"scopeName": "text.html.jinja",
 				"path": "./snippets/django-snippets.json"
+			},
+			{
+				"language": "jinja-sql",
+				"scopeName": "source.sql.jinja",
+				"path": "./snippets/sql-snippets.json"
 			}
 		]
   }
